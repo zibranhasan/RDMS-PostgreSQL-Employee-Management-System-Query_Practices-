@@ -1,8 +1,8 @@
-1.What is PostgreSQL?
+1.***What is PostgreSQL?***
 Answer:PostgreSQL is a powerful, open-source relational database management system (RDBMS) known for its extensibility and standards compliance.Characteristics are Extensibility,ACID Compliance,Support for Complex Data Types
-2.What is the purpose of a database schema in PostgreSQL?
+2.***What is the purpose of a database schema in PostgreSQL?***
 Answer:a database schema in PostgreSQL serves as a container for organizing and managing database objects, providing logical separation, access control, and ease of maintenance. It contributes to the overall organization, security, and manageability of a relational database.
-3.Explain the primary key and foreign key concepts.
+3.***Explain the primary key and foreign key concepts.***
 Answer:
 Primary Key:
 A primary key is a unique identifier for a record in a relational database table. It ensures that each record in a table is uniquely identified and can be distinguished from others. The primary key serves as a reference point for relationships between tables and is used to enforce entity integrity.Key characteristics of Primary Key->Uniqueness,Not Null,Stability,Indexing.
